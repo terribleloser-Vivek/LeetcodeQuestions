@@ -1,2 +1,2 @@
 # LeetcodeQuestions
-Common Repository for all the solved questions on Leetcode
+CONTAINS QUESTION AND SOLUTION OF LEETCODE QUESTION THAT I AM SOLVING DAILY
